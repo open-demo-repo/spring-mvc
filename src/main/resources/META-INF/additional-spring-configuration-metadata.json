@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.data.gemfire.locators",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.gemfire.locators'"
+  },
+  {
+    "name": "spring.data.gemfire.manager.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.gemfire.manager.port'"
+  }
+]}
