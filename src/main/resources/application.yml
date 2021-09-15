@@ -1,6 +1,6 @@
 spring:
   application:    name: MyLocalClient
-  data:
-    gemfire:
-      locators: 10.10.8.110[10334]
-        
+  mvc:
+    view:
+       prefix: /WEB-INF/view/
+       suffix: .jsp
